@@ -4,15 +4,25 @@ This repository contains solutions and SQL queries for the CS50 SQL course probl
 Overview
 This course, CS50’s Introduction to Databases with SQL, is developed by Harvard University and Cambridge.
 Throughout these problem sets, I applied SQL in various real-world contexts, including:
+
   ✔ Writing complex queries (SELECT, JOIN, GROUP BY, HAVING, ORDER BY)
+  
   ✔ Designing and managing relational databases
+  
   ✔ Performing data analysis to extract insights
+  
   ✔ Creating database schemas for business applications
+  
   ✔ Implementing data integrity and normalization
+  
   ✔ Cleaning and transforming raw datasets into structured databases
+  
   ✔ Optimizing queries using indexing techniques
+  
   ✔ Working with views for aggregation, partitioning, and securing data
+  
   ✔ Understanding database scalability and performance tuning
+  
   ✔ Implementing security measures, prepared statements, and penetration testing
 
 Project Breakdown
