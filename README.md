@@ -57,7 +57,7 @@ Concepts: CREATE INDEX, EXPLAIN QUERY PLAN, covering indexes, transactions (BEGI
 
 Week 6: Scaling & Security
 
-📌 Concepts: MySQL database design, distributed databases, security, prepared statements, and scalability
+Concepts: MySQL database design, distributed databases, security, prepared statements, and scalability
 
 ✔ Happy to Connect (Sentimental) (sentimental-connect/schema.sql) – Recreated LinkedIn’s database in MySQL
 ✔ From the Deep (from-the-deep/answers.md) – Analyzing distributed database architectures
@@ -66,7 +66,7 @@ Week 6: Scaling & Security
 Key concepts used: SQLite + Python (cs50.SQL), Prepared Statements, SQL Injection Prevention
 Final Project: AI Readiness Analysis
 
-📌 Concepts: AI readiness analysis, efficiency modeling, risk assessment, database schema design, SQL queries
+Concepts: AI readiness analysis, efficiency modeling, risk assessment, database schema design, SQL queries
 
 ✔ Design Document (ai-readiness/design.md) – Full project documentation
 ✔ Database Schema (ai-readiness/schema.sql) – SQLite tables for AI readiness analysis
