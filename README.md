@@ -103,7 +103,3 @@ This final project analyzes AI readiness across **151 countries** from **2020 to
 ✔ **Security & Data Manipulation:** `UPDATE`, `DELETE`, MD5 Hashing, SQL Injection Prevention  
 ✔ **Optimization & Indexing:** `CREATE INDEX`, `EXPLAIN QUERY PLAN`  
 ✔ **Scaling & Performance Tuning:** Sharding, Replication, Read Replicas  
-
----
-
-### 🚀 **Feel free to explore the repository and reach out with any questions!**
